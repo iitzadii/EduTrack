@@ -13,6 +13,18 @@
 
 ---
 
+### Password (Teacher Login)
+The default **teacher password** for testing is: **aditya**
+
+You can **change the password** by editing the source code in the following section:
+
+```python
+# ------------------- Page 2: Teacher Password -------------------
+```
+**Note:** For security, avoid committing real passwords to a public repository. You can also replace the hard-coded password with an environment variable to keep it secure.
+
+---
+
 ## Demo / Screenshots
 -*Login page*
 
